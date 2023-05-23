@@ -3,7 +3,7 @@
 
 <p> Projeto desenvolvido utilizando HTML e CSS </p>
 
-🚀 Começo do Projeto
+🚀 <h2>Começo do Projeto</h2>
 Iniciei o projeto fazendo uma separação de paleta de cores e formato de caixa que gostaria na página inicial, imagine que gostaria que minha foto fosse redirecionada para o meu perfil do linkedin, que cada página fosse separada em tópicos e que houvesse alguma interação com o usúario usando a tag hover. 
 
 Usei o site https://palettes.shecodes.io/palettes/1562 para escolher minha paleta de cores favorita abaixo
@@ -14,7 +14,7 @@ Usei o site https://palettes.shecodes.io/palettes/1562 para escolher minha palet
 Para a imagem de perfil usei o foto tirada na iniciação do curso Códigos do Amanhã 2023 com um conteiner com animação e hover para interação do usúario para leva-lo até o meu Linkedin
 (https://myalbum.com/album/PyB2XQUbTqSeKx/?invite=6105ab00-f08f-443b-b6e3-2ae810fa43ad)
 
-<h2>🚢Navegação<h2>
+<h2>🚢Navegação</h2>
 
 
 Para as páginas da navegação utilizei um hover para interação com o usúrio para quando o mouse passase em cima da barra mudação de cor para chamar atenção e linkei as páginas do projeto em seus tópicos redirecionando o usuário para a página selecionada.
