@@ -19,6 +19,9 @@ Para a imagem de perfil usei o foto tirada na iniciação do curso Códigos do A
 
 Para as páginas da navegação utilizei um hover para interação com o usúrio para quando o mouse passase em cima da barra mudação de cor para chamar atenção e linkei as páginas do projeto em seus tópicos redirecionando o usuário para a página selecionada.
 
+<h2>🎮 Sobre Mim e Interesses</h2>
+Fiz um breve resumo sobre minha história e conhecimentos e sobre meus interesses em jogos, música, animes, conhecimento de idiomas e culturas e cinema e fotografia.
+
   <h2>📋Formulário</h2>
 Para o formulário usei as tags padrões do formulário, usando a tag label para ter mais acessibilidade na interação e a tag e a tag "acesskey para receber os conteúdos enviados direto no meu email.
 
