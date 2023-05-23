@@ -3,7 +3,7 @@
 
 <p> Projeto desenvolvido utilizando HTML e CSS </p>
 
-🚀 <h2>Começo do Projeto</h2>
+ <h2>🚀Começo do Projeto</h2>
 Iniciei o projeto fazendo uma separação de paleta de cores e formato de caixa que gostaria na página inicial, imagine que gostaria que minha foto fosse redirecionada para o meu perfil do linkedin, que cada página fosse separada em tópicos e que houvesse alguma interação com o usúario usando a tag hover. 
 
 Usei o site https://palettes.shecodes.io/palettes/1562 para escolher minha paleta de cores favorita abaixo
