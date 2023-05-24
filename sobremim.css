@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/323/925/72/matrix-background-wallpaper-preview.jpg");
+}
+p{
+    font-family: 'Indie Flower', cursive;
+    color:rgb(197, 81, 235)
+}
+h1{
+color: rgb(203, 75, 231);
+font-family: 'Indie Flower', cursive;
+}
+p:hover{
+background-color: rgb(251, 249, 249);
+}
+h1:hover{
+    background-color: #a5f2e7;
+
+}
