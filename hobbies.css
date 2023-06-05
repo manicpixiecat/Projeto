@@ -1,26 +1,29 @@
+/*Estilização do corpo da página e plano de fundo*/
 body {
-    margin: 0px
+    margin: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./Imagens/Gif-background.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-
-
+/*Posicionamento do plano de fundo*/
 
 .box {
     width: 100%;
     height: 90%;
-    color: black;
+    color: rgb(133, 46, 46);
 }
-body {
-    background-image: url(https://i.pinimg.com/originals/9d/ea/64/9dea6422afee150cbe2f65b5317285eb.gif);
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
+/*Posicionamento da imagem lateral do plano de fundo*/
   img {
-    position: absolute;
+    position: relative;
     left: 900px;
     top:90px
+    /*Posicionamento da Sessão Titulo e Sub-titulo*/
   }
-fieldset {
+section{
     position: absolute;
     top: 60px;
     right: 700px;
@@ -29,36 +32,34 @@ fieldset {
     z-index: 1;
     border: 0;
 }
+/*Estilização, tamanho e posicionamento do retangulo*/
 .retangulo {
     position: absolute;
+    background-color: rgb(194, 30, 244);
     top: 60px;
     right: 400px;
     width: 600px;
     height: 500px;
-    background-color: rgb(134, 76, 240);
     border-radius: 10%;
-    opacity: 0.6;
-
-}
-p {
-    position: absolute;
-    left: px;
+    opacity: 0.9;
 }
 
-ol {
-    list-style-type: none;
-}
 
+/*Posicionamento, tamanho e estilização de titulo*/
 h1 {
     font-size: 30px;
     position: center;
     left: -150px;
     font-family: 'Indie Flower', cursive;
+    color: pink;
+}
+/*Estilização dos sub-titulos*/
+h2{
+    color: pink;
 }
 
-
-
-.ref {
+/*Estilização e posicionamento do texto*/
+.hobbies {
     position: absolute;
     top:120px;
     font-family: 'Indie Flower', cursive;

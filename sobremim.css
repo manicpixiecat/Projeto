@@ -1,18 +1,41 @@
+/* Esilização do Background*/
 body{
-    background-image: url("https://c4.wallpaperflare.com/wallpaper/323/925/72/matrix-background-wallpaper-preview.jpg");
+    background-image: url(./Imagens/Plano\ de\ Fundo.jpg );
+    background-repeat:round;
 }
+/*Estilização de Paragrafos*/
 p{
-    font-family: 'Indie Flower', cursive;
-    color:rgb(197, 81, 235)
+    font-family: 'Bree Serif', serif;
+    color:rgb(77, 21, 229);
 }
+/*Tamanho Imagem de Perfil*/
+.Eu{
+    width: 250px;
+    height: 250px;
+    
+}
+/*Tamanho do Gif do Programando*/
+.programando{
+    width: 250px;
+    height: 250px;
+}
+/*Estilização de Titulo*/
 h1{
-color: rgb(203, 75, 231);
+color: rgb(112, 13, 125);
 font-family: 'Indie Flower', cursive;
 }
+/*Hover dos Paragrafos*/
 p:hover{
-background-color: rgb(251, 249, 249);
+    background-color: #efbf45;
 }
-h1:hover{
-    background-color: #a5f2e7;
+/*Estilização de Icones*/
+img{
+justify-content: space-between;
+width: 60px;
+border: 2px solid purple;   
+border-radius: 80px;
+}
+a{
+    text-decoration: none;
+}
 
-}
