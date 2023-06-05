@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*Estilização do corpo da página e plano de fundo*/
 body{
     margin: 10%;
@@ -40,3 +41,41 @@ input[type=submit]{
     border-radius: 10px;
     cursor:pointer;
 }
+=======
+body{
+    margin: 10%;
+    border-left: none;
+background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p1/20883036-ilustracao-do-uma-roxa-fundo-com-uma-lago-e-nuvens-dentro-a-ceu-panorama-cenario-acima-a-agua-com-sereno-nuvens-vetor.jpg");
+}
+h1{
+margin: left 30px;    
+}
+/*Estilização do Formulário*/
+form {
+max-width: 400px;
+margin: 0 auto;
+color: #3f1342;  
+
+}
+input [type="text"],
+input [type="email"],
+textarea {
+width: 100%;
+padding: 10px;
+margin-bottom:  10px;
+border-radius: 5px;
+border: 1px solid #ed2afb;
+}
+textarea {
+height: 150px;
+
+}
+input[type=submit]{
+    background-color: yellowgreen;
+    color: #780b80;
+    padding: 10px 20px;
+    border:none
+    border-radius: 10px
+    cursor:pointer;
+}
+>>>>>>> 164ceb1530668c57b1e4032b000e7962e374c270
